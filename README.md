@@ -26,6 +26,6 @@ The dashboard revealed several key insights:
 
 ## Contents
 
-- **Customer-Analytics-Assignment.pdf**: Detailed report of the analytics project.
+- **CA Report.pdf**: Detailed report of the analytics project.
 - **Customer-Analytics-Assignment.pbix**: Editable Power BI Desktop file.
 - **Screenshots**: Visual snapshots of the dashboard for quick preview.
