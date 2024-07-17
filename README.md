@@ -6,6 +6,8 @@ This repository contains a comprehensive Customer Analytics Dashboard created us
 
 In this project, I performed data cleaning and preparation tasks, including changing some columns to appropriate formats to ensure proper data handling and analysis. The focus was on transforming raw data into meaningful insights through visualizations and analysis in Power BI.
 
+
+
 ## Data Cleaning and Preparation
 
 - Changed specific columns to text and date format to rectify data type inconsistencies.
