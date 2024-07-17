@@ -5,7 +5,7 @@ This repository contains a comprehensive Customer Analytics Dashboard created us
 ## Project Description
 
 In this project, I performed data cleaning and preparation tasks, including changing some columns to appropriate formats to ensure proper data handling and analysis. The focus was on transforming raw data into meaningful insights through visualizations and analysis in Power BI.
-
+![Customer Analytics Assignment-1](https://github.com/user-attachments/assets/15667850-5ec8-4702-848d-e637d20e6779)
 
 
 ## Data Cleaning and Preparation
